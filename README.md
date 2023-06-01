@@ -1,2 +1,2 @@
 # AHakeemDashboard
-![Knitter ss](https://user-images.githubusercontent.com/125868067/221474719-66c69fe1-525d-4674-b952-b64eb69e5c59.png)
+![image](https://github.com/ashakeem/DroneLytics/assets/125868067/f9c3a8cd-67ba-404d-9ab2-6b4d80e6af3b)
